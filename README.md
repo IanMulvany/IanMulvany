@@ -8,9 +8,9 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on technical innovation at BMJ.  
-- 🌱 I’m currently learning about EHR systems.  
+- 🌱 I’m currently learning about LLMs.
 - 👯 I’m looking to collaborate on knowledge graphs for scholarly ecosystems.  
 - 💬 Ask me about lean product management and value creation.  
-- 📫 How to reach me: right here is good, but also on Twitter. 
+- 📫 How to reach me: right here is good.
 - 😄 Pronouns: He/Him/His  
 
